@@ -15,3 +15,7 @@ On my first day of this project I figured it would be best to do some researchin
 
   
 
+## 10/26/2025 - Wiring for basic prototype   
+
+To start I had to figure out how everything was going to be wired so I used a breadboard to wire one LCD with a potentiometer to the arduino,  once I got that done I hooked up the second LCD and then got to programming, I wrote some basic code in order to get both screens recognized as their own display and got “Hello World” running on both screens. I’ve started working on the code where you select what ingredients you want, but that’s still in the works. Lastly I’ve decided I want to use a PCB for the finished product but only if there’s time. ![IMG_3198](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTgzMCwicHVyIjoiYmxvYl9pZCJ9fQ==--18f9055330787b5a7fdc21efc7cfda74e56a60c1/IMG_3198.jpeg)  
+
